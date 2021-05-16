@@ -1,1 +1,1 @@
-# covid-portal
+# covidAssignment
